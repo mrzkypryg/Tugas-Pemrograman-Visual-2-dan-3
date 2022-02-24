@@ -1,8 +1,0 @@
-C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Tugas 2 PV\Tugas 2 PV\bin\Debug\Tugas 3 PV.exe.config
-C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Tugas 2 PV\Tugas 2 PV\bin\Debug\Tugas 3 PV.exe
-C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Tugas 2 PV\Tugas 2 PV\bin\Debug\Tugas 3 PV.pdb
-C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Tugas 2 PV\Tugas 2 PV\obj\Debug\Tugas 3 PV.csprojResolveAssemblyReference.cache
-C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Tugas 2 PV\Tugas 2 PV\obj\Debug\Tugas_2_PV.MainForm.resources
-C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Tugas 2 PV\Tugas 2 PV\obj\Debug\Tugas 3 PV.csproj.GenerateResource.Cache
-C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Tugas 2 PV\Tugas 2 PV\obj\Debug\Tugas 3 PV.exe
-C:\Users\user\OneDrive\Documents\SharpDevelop Projects\Tugas 2 PV\Tugas 2 PV\obj\Debug\Tugas 3 PV.pdb
