@@ -18,6 +18,7 @@ namespace Tugas_2_PV
 	/// </summary>
 	public partial class MainForm : Form
 	{
+		DialogResult result;
 		public MainForm()
 		{
 			//
@@ -40,6 +41,7 @@ namespace Tugas_2_PV
 		void Button1Click(object sender, EventArgs e)
 		{
 			listBox1.Items.Add(textBox1.Text);
+			MessageBox.Show("Berhasil ditambah ke daftar!", "Sukses");
 			textBox1.Clear();
 		}
 		void Button2Click(object sender, EventArgs e)
@@ -48,8 +50,19 @@ namespace Tugas_2_PV
 		}
 		void Button3Click(object sender, EventArgs e)
 		{
+			result = MessageBox.Show("Yakin ingin menghapus ?", "Konfirmasi", MessageBoxButtons.YesNo);
 			int r = listBox1.SelectedIndex;
-			listBox1.Items.RemoveAt(r);
+			
+			if (result == DialogResult.Yes)
+			{
+				listBox1.Items.RemoveAt(r);
+				MessageBox.Show("Data berhasil dihapus!", "Aksi Sukses");
+			}
+			else{}
+		}
+		void ListBox1SelectedIndexChanged(object sender, EventArgs e)
+		{
+			
 		}
 	}
 }
